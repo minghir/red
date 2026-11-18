@@ -1,0 +1,1 @@
+RED (Rust EDitor) is a code editor and IDE written in Rust.
